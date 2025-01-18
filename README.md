@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FlyingDouglas
+- 👋 Hi, I’m @Ducky
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on QOD Development
+- 💞️ I’m looking to be a good developer
 - 📫 How to reach me per Discord but DMs are closed
-- 😄 Pronouns: FlyingDouglas
-- ⚡ Fun fact: Im owner of QOD Development
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im CEO of Stezno Games
 
